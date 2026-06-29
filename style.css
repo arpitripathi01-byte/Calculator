@@ -84,3 +84,6 @@ button:active{
 .clear:hover{
     background:#e74c5b;
 }
+.span-2 {
+    grid-column: span 2;
+}
